@@ -1,0 +1,92 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "AgendaContatos",
+            "request": "launch",
+            "mainClass": "AgendaContatos",
+            "projectName": "exercicios_fce9bb14"
+        },
+        {
+            "type": "java",
+            "name": "DeclaracaoVariaveis",
+            "request": "launch",
+            "mainClass": "DeclaracaoVariaveis",
+            "projectName": "exercicios_fce9bb14"
+        },
+        {
+            "type": "java",
+            "name": "EstouroHeap",
+            "request": "launch",
+            "mainClass": "EstouroHeap",
+            "projectName": "exercicios_fce9bb14"
+        },
+        {
+            "type": "java",
+            "name": "GestaoAlunos",
+            "request": "launch",
+            "mainClass": "GestaoAlunos",
+            "projectName": "exercicios_fce9bb14"
+        },
+        {
+            "type": "java",
+            "name": "GestaoFuncionarios",
+            "request": "launch",
+            "mainClass": "GestaoFuncionarios",
+            "projectName": "exercicios_fce9bb14"
+        },
+        {
+            "type": "java",
+            "name": "Loja",
+            "request": "launch",
+            "mainClass": "Loja",
+            "projectName": "exercicios_fce9bb14"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Main",
+            "projectName": "exercicios_fce9bb14"
+        },
+        {
+            "type": "java",
+            "name": "MundoReal",
+            "request": "launch",
+            "mainClass": "MundoReal",
+            "projectName": "exercicios_fce9bb14"
+        },
+        {
+            "type": "java",
+            "name": "Objetos",
+            "request": "launch",
+            "mainClass": "Objetos",
+            "projectName": "exercicios_fce9bb14"
+        },
+        {
+            "type": "java",
+            "name": "RecursivaInfinita",
+            "request": "launch",
+            "mainClass": "RecursivaInfinita",
+            "projectName": "exercicios_fce9bb14"
+        },
+        {
+            "type": "java",
+            "name": "Soma",
+            "request": "launch",
+            "mainClass": "Soma",
+            "projectName": "exercicios_fce9bb14"
+        }
+    ]
+}
